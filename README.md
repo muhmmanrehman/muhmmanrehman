@@ -3,7 +3,7 @@
 I'm a aspiring software developer interested in web development. I love to explore new technologies and leverage them to solve real-life problems ✨.
 
 - 🌱 I’m currently learning more about Web Development.
-- IEEE-SB-GNITC Vice Chair January 2024 to Present
+- IEEE-SB-GNITC Chair January 2024 to Present
 - Google DSC Social Media Head 2022 to 2024
 - 📫 How to reach me: [muhmmadrehman2004@gmail.com](mailto:muhmmadrehman2004@gmail.com)
 
